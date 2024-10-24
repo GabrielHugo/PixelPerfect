@@ -1,0 +1,43 @@
+body {
+    background-color: hsl(39, 6%, 83%);
+}
+
+h1 {
+    color: rgb(12, 37, 134);
+}
+
+.brand span {
+    color: #d69e36;
+}
+
+a {
+    color: rgb(134, 12, 110);
+}
+
+a span {
+    color: red;
+}
+
+li ul li a {
+    color: blue;
+}
+
+li ul li a span{
+    color: green;
+}
+
+.menu ul {
+    background-color: hsl(39, 21%, 73%);
+}
+
+.menu ul li:nth-child(2) {
+    background-color: purple; /* Pour le span contenant B */
+}
+
+.content {
+    color: #008B8B;
+}
+
+.content a {
+    color: #008B8B;
+}
